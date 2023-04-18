@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arnaldotenorio044@gmail.com
+	name = Arnaldo Tenorio
